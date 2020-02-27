@@ -1,0 +1,8 @@
+{
+  "name": "@mariakasinska/id-generator",
+  "version": "1.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:maariaantonina/id-generator.git",
+  "author": "Maria Kasińska <mariakasinska17@gmail.com>",
+  "license": "MIT"
+}
